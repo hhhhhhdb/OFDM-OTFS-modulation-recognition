@@ -2,6 +2,7 @@
   This is a automatic modulation recognition project based on deep learning (DL). In this project, we generated four different types of datasets and provided two neural networks including CNN and Transformer as feature extractors to classify the modulated signals.
 
 1. Dataset
+  
   We provide 4 datasets including the popular modulation methods in 5G and 6G. The datasets can be obtained by linking https://mailnwpueducn-my.sharepoint.com/:u:/g/personal/houdongbin_mail_nwpu_edu_cn/Ef8WIcCdVwFGhXZyQhUk-w0BZOb0MluwHo-rDzm8jFTR3A?e=qlxUet
   
   The "Gauss" dataset contains the OFDM dataset under Gaussian channel conditions. The dataset contains 6 types of OFDM modulations: BPSK, QPSK, 8PSK, 16QAM, 64QAM and 256QAM, with signal-to-noise ratios ranging from -10dB to 20dB at intervals of 2 dB. There are 2000 pieces of data generated for each signal type under a specific SNR and the dataset has a total of 192,000 data. Before the signal is transmitted, it undergoes signal processing steps such as channel coding, modulation, serial-to-parallel conversion, spread spectrum and pulse forming, respectively.
