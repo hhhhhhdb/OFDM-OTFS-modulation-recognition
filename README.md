@@ -25,6 +25,8 @@
   doi={10.1109/TVT.2023.3267270}}
 
 Reference
+
 [1] R. Hadani et al., "Orthogonal Time Frequency Space Modulation," 2017 IEEE Wireless Communications and Networking Conference (WCNC), San Francisco, CA, USA, 2017, pp. 1-6.
+
 [2] Brown T, Mann B, Ryder N, et al, "Language models are few-shot learners," in Advances in neural information processing systems, vol. 33, no. 1, pp. 1877-1901, Jun. 2020.
 
